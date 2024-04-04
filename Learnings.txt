@@ -1,0 +1,6 @@
+Project Learning:
+
+1. Perform data cleaning and manipulations.
+2. Perform EDA using numpy, pandas, matplotlib and seaborn.
+3. Improved customer experience by identifying potential customers across different states, occupation, gander and age groups.
+4. Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
